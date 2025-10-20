@@ -1,5 +1,7 @@
 # LaTeX Resume Template
 
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge&logo=github)](https://github.com/samueltauil/latex-resume-template/generate)
+
 A minimal LaTeX resume template with an accompanying GitHub Actions workflow that automatically builds and commits a PDF version on every push.
 
 ## Features
